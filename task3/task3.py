@@ -1,6 +1,6 @@
-from playwright.sync_api import sync_playwright
 import csv
 
+from playwright.sync_api import sync_playwright
 
 def login_demo(page):
 
